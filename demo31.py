@@ -1,0 +1,16 @@
+p1 = input("Enter first product price : ")
+p2 = input("Enter second product price : ")
+print()
+a = float(p1)
+b = float(p2)
+
+total = a + b
+print()
+print(f"value of p1 : {a}")
+print("data type of p1",type(a))
+print()
+print(f"value of p2 : {b} ")
+print("data type of p2",type(b))
+print()
+print("total price :",total)
+print("data type of total :",type(total))

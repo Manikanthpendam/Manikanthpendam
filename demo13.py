@@ -1,0 +1,6 @@
+a,b,c,d=("hydrogen","helium","lithium","berylium")
+print(a,b,c,d)
+print(type(a))
+print(type(b))
+print(type(c))
+print(type(d))

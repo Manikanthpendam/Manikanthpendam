@@ -1,0 +1,10 @@
+a = range(101)
+r = range(1001,11001)
+b = range(1,5)
+print()
+print(a)
+print()
+for r in r:
+	print (r)
+print(b[0])
+print(b[-1])

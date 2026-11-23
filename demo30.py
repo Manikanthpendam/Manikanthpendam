@@ -1,0 +1,7 @@
+a = input("Enter student name: ")
+b = input("Enter mobile no: ")
+c = input("course name: ")
+print()
+print("name is: " ,a)
+print("mobile no is: " ,b)
+print("course name is: " , c)
